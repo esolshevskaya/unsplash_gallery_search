@@ -1,3 +1,4 @@
+//smth
 window.onload = function() {
     const CLIENT_ID = 'K6HLHwT0DgSPJpHiuvkrh5pJG7yrcGV7KKHafIpOc-s';
 
